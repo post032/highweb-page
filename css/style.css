@@ -240,6 +240,10 @@ input[type="radio"].visually-hidden {
   margin-left: 20px;
   margin-right: 20px;
 }
+.info__text2 {
+  margin-left: 0;
+  margin-right: 0;
+}
 .info__open {
   padding-bottom: 30px;
 }
